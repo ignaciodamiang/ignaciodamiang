@@ -13,7 +13,7 @@ My core stack is **Java / Spring · TypeScript · React / Next.js · React Nativ
 - Modernized **Java/Spring APIs** by upgrading unsupported frameworks and dependencies and remediating critical security vulnerabilities.
 - Built **real-time CRM integrations** and an **AI-assisted response system** used by operators during lead conversations.
 - Helped bring a previously outsourced platform **in-house**, establishing its development environment and documenting architecture and end-to-end flows across web, backend, database, and COBOL systems.
-- Diagnosed production issues across distributed application layers, APIs, databases, Linux environments, and legacy integrations.
+- Diagnosed production issues across application layers, APIs, databases, Linux environments, and legacy integrations.
 
 ## 🧩 Core stack
 
@@ -23,9 +23,17 @@ Also worked with:
 
 `.NET` · `Angular` · `Symfony` · `AWS SQS` · `Linux` · `New Relic` · `Fortify` · `Sonatype`
 
+## 🚧 Building Wize It
+
+**Wize It** is my independent project focused on **AI agents, orchestration, automation, and distributed systems**.
+
+I use it to explore how autonomous and AI-assisted systems can be designed, coordinated, deployed, and operated across distributed environments, with an emphasis on clear architecture, infrastructure automation, observability, and production operations.
+
+→ [wizeit.co](https://wizeit.co)
+
 ## 🛠️ Engineering focus
 
-**Full-stack development** · **System integration** · **Application modernization** · **Production troubleshooting** · **Application security** · **Technical ownership**
+**Full-stack development** · **System integration** · **Application modernization** · **Distributed systems** · **Production troubleshooting** · **Application security** · **Technical ownership**
 
 ## 🎯 Currently
 
